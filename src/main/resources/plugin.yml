@@ -1,0 +1,10 @@
+name: UhcPlugin
+version: '${project.version}'
+main: xyz.hubi.uhcplugin.UhcPlugin
+api-version: 1.18
+authors: [ hubikopter ]
+commands:
+  arenajoin:
+  startgame:
+  endgame:
+  leave:
